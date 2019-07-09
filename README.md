@@ -1,9 +1,30 @@
 # shiptheorytest
 
-**SPEC**:  
-Reverse a string and remove its most frequenct charecter. In-built reversing functions not allow. 
+Simple programming test for Shiptheory development role
 
-**USAGE**:  
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+N/A
+
+
+## Running the tests
+
 Enter a string. The string will become reversed and its move frequent charecter (including spaces!) will be removed. 
 
-NOTE: the code wasn't split into functions due to the small size of the script and little repeated code
+
+## Authors
+
+* **Ameen Ahmed** - *Initial work* - [TheIdesofMay](https://github.com/TheIdesofMay)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Note:
+
+- Functions were purposefully not used due to the simple and non-repeated code of the script 
