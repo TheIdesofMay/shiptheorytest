@@ -1,6 +1,6 @@
 # shiptheorytest
 
-Simple programming test for Shiptheory junior developer role
+Simple programming test for a Shiptheory junior developer role
 
 ## Getting Started
 
