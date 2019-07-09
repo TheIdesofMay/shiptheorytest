@@ -18,7 +18,7 @@ Enter a string. The string will become reversed and its move frequent charecter 
 
 ## Authors
 
-* **Ameen Ahmed** - *Initial work* - [TheIdesofMay](https://github.com/TheIdesofMay)
+* **Ameen Ahmed** - [TheIdesofMay](https://github.com/TheIdesofMay)
 
 
 ## License
