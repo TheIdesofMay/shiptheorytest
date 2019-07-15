@@ -1,6 +1,9 @@
 # shiptheorytest
 
-Simple programming test for a Shiptheory junior developer role
+Simple programming test for a Shiptheory junior developer role. 
+
+The task is to write a script which reverses a string and removes the most common charecter WITHOUT using built-in string reversal functions. 
+
 
 ## Getting Started
 
